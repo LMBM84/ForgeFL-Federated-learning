@@ -64,6 +64,6 @@ The implementation is evaluated using a combination of sources to ensure validit
 1.  **Industrially Realistic Degradation Datasets:** Actual sensor data from rotating machinery.
 2.  **Controlled Synthetic Scenarios:** Simulated environments designed to test robustness against real-world factory heterogeneity.
 
----
+
 
 
